@@ -1,2 +1,2 @@
 # hello-world
-Beginning Python
+print("Hello world!")
